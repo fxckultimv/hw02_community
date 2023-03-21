@@ -1,1 +1,1 @@
-posts_show_limit = 10
+PAGE_LIMIT = 10
